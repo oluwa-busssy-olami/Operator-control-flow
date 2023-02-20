@@ -1,0 +1,38 @@
+WEEK 2 ASSIGNMENT
+//Question 1
+1) List the symbols for each of the below Javascript operators
+  a. Arithmetic Operators 
+     Ans; +, -, /, *, **, %.
+  b. Assignment Operators
+     Ans; =.
+  c. Comparison Operators
+     Ans; <, >, <=, >=, ==, ===, !==, !=.
+  d. Logical Operators
+     Ans; ||, &&. !.
+  e. Bitwise Operators
+     Ans; ^,  |, ~,
+  
+     //Question 2
+2)  Arithmetic Operators 
+    Ans;2 + 2 = 4;
+        200  / 2 = 100
+
+  b.Assignment Operators
+    Ans; Female = Gender;
+         Busolami = Female
+  c.Comparison Operators
+    Ans; 3 > 2;
+         5 === '5'
+  d.Logical Operators
+    Ans; true && false;
+         true || false;
+  e.Bitwise Operators
+    Ans; x^y;
+         x>>y
+
+         //Question 4
+4) What is the result when the following program is executed?
+    for (let i = 1; i < 20; i += 7) {
+    console.log(i);
+    }
+    Ans; 1, 8, 15
